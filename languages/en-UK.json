@@ -1,6 +1,7 @@
 {
   "WELCOME_SCREEN": {
-    "welcomeLabel": "Welcome"
+    "title": "Welcome",
+    "welcomeLabel": "Hello there, stranger!"
   },
   "HOME_SCREEN": {
     "title": "Home"
